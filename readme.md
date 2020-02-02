@@ -1,6 +1,6 @@
 Project 2: A Messenger Application
 
-Author: Yuanhang Shao (ys18c@my.fsu.edu)
+Author: Yuanhang Shao 
 
 Achieved features:
 1. The server only supports 30 clients connection at one time.
